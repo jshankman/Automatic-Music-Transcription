@@ -1,0 +1,13 @@
+.wav Filenames
+//
+7NationArmy.wav
+couchplayin2.wav
+DayTripper.wav
+EnterSandman.wav
+EveryMorning.wav
+WalkThisWay.wav
+//
+
+//All files were recorded by Jake Shankman on 3/31/2013 @ 7:10 pm except for couchplayin2.wav
+//These files can be found in the SeniorProject folder
+//^Same location as the transcription program, so no need do any funky pathing

@@ -1,0 +1,20 @@
+1. https://www.assembla.com/code/pyimprov/subversion/nodes/pytuner.py
+  -a sample for a functioning tuner in python. Figure out what it does w/ the peaks....
+
+2. http://people.csail.mit.edu/hubert/pyaudio/
+  -download link for pyaudio. Might need this for better working with audio than scipy
+
+3. http://www.codeproject.com/Articles/32172/FFT-Guitar-Tuner
+  -FFT guitar tuner in java; Use this to figure out how to work with frequency bins and finding peaks
+
+4. http://stackoverflow.com/questions/4364823/how-to-get-frequency-from-fft-result/4371627#4371627
+  -See title of url for what this link is about
+
+5. http://www.python.org/dev/peps/pep-0202/
+  -List Comprehension: Good for understanding Link #1
+
+6. https://www.assembla.com/code/pyimprov/subversion/nodes/fft_utils.py?rev=4
+  -fft_utils that is used in link #1
+
+
+MAKE SURE TO CREDIT PYIMPROV AUTHOR FOR USING FFT_UTILS' FIND_PEAK! DR.T SAID IT"S OKAY TO DO SO AS LONG AS THE SOURCE IS CITED!!!!!!!!!!!!!
